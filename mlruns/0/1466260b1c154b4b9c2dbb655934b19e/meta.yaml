@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/harik/OneDrive/Documents/ProductionCode/MLFlow/mlruns/0/1466260b1c154b4b9c2dbb655934b19e/artifacts
+end_time: 1633582219271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1466260b1c154b4b9c2dbb655934b19e
+run_uuid: 1466260b1c154b4b9c2dbb655934b19e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1633582216430
+status: 3
+tags: []
+user_id: harik
